@@ -1,6 +1,6 @@
 # Bunny Worker Locations
 
-## Problem statement
+## Problem statement 
 
 Keeping track of Commander Lambda's many bunny workers is starting to get tricky. You've been tasked with writing a program to match bunny worker IDs to cell locations.
 
@@ -30,3 +30,7 @@ Output: 96
 Input: solution(3, 2)
 Output: 9
 ```
+
+## Solution
+
+You can check my solution to this problem [here](solution.py).

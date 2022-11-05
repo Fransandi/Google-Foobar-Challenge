@@ -21,3 +21,7 @@ Output: 8
 Input: solution([-2, -3, 4, -5])
 Output: 60
 ```
+
+## Solution
+
+You can check my solution to this problem [here](solution.py).

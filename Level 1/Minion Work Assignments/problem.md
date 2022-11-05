@@ -23,3 +23,7 @@ Output: []
 Input: solution([1, 2, 2, 3, 3, 3, 4, 5, 5], 1)
 Output: [1,4]
 ```
+
+## Solution
+
+You can check my solution to this problem [here](solution.py).
