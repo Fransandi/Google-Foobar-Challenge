@@ -1,5 +1,7 @@
 # 👨‍💻 Google Foobar Challenge 🧩
 
+> There are a lot of difficult things about being undercover as Commander Lambda's personal assistant, but you have to say, the personal spa and private hot cocoa bar are pretty awesome.
+
 ## What is the Google Foobar challenge? 
 
 Google Foobar is such a well-hidden secret that people have a tough time finding credible sources for it on the internet. It aims at hiring one of the best developers and programmers all across the world.
@@ -16,7 +18,7 @@ This repository contains the problems and solutions of my journey through the Go
 
 ## Problems 
 
-Theres are the problems I got during the challenge, and its solutions:
+Theres are the problems I got during the challenge, and their solutions:
 
 **Level 1:**
 
@@ -30,9 +32,15 @@ Theres are the problems I got during the challenge, and its solutions:
 **Level 3:**
 * [Find the Access Codes](Level%203/Find%20the%20Access%20Codes/problem.md)
 * [Prepare the Bunnies Escape](Level%203/Prepare%20the%20Bunnies%20Escape/problem.md)
+* [Doomsday Fuel](Level%203/Doomsday%20Fuel/problem.md)
+
+**Level 4:**
+* TBD
 * TBD
 
-...
+**Level 5:**
+* TBD
+
 
 
 
