@@ -2,6 +2,8 @@
 
 > There are a lot of difficult things about being undercover as Commander Lambda's personal assistant, but you have to say, the personal spa and private hot cocoa bar are pretty awesome.
 
+<img src="https://i.ibb.co/M92tghX/Bunny.png" alt="drawing" width="500"/>
+
 ## What is the Google Foobar challenge? 
 
 Google Foobar is such a well-hidden secret that people have a tough time finding credible sources for it on the internet. It aims at hiring one of the best developers and programmers all across the world.
@@ -41,6 +43,13 @@ Theres are the problems I got during the challenge, and their solutions:
 **Level 5:**
 * TBD
 
+***
 
+## How to contribute?
 
+Here are a couple of ideas to share your appreciation in case this repository was helpful to you in some way:
 
+- ⭐ Give this repo a star 
+- ✍️ Follow me on Medium: [@fransandi](https://medium.com/@fransandi)
+- 🐦 Share your thoughts with me on Twitter: [@fransandi7](https://twitter.com/fransandi7)
+- 🚀 Send me suggestions to improve the project
