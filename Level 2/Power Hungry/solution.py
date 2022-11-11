@@ -1,3 +1,5 @@
+import time
+
 def solution(xs):
     negative_values = [panel for panel in xs if panel<0]
     positive_values = [panel for panel in xs if panel>0]
@@ -30,6 +32,10 @@ test_cases = [
     ([-1], '-1')
 ]
 
+def milliseconds(): return int(round(time.time() * 1000))
+
 for input, expected_output in test_cases:
+    start_time = milliseconds()
     result = solution(input)
-    print("Passed!" if result == expected_output else "Failed! (expected: " + str(expected_output) + ", but got: " + str(result) + ")")
+    end_time = milliseconds()
+    print("Passed! (" + str(end_time - start_time) + " ms)" if result == expected_output else "Failed! (expected: " + str(expected_output) + ", but got: " + str(result) + ")")

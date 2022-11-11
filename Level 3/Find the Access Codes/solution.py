@@ -1,4 +1,4 @@
-from collections import defaultdict
+import time
 
 def solution(l):
     divisors_count = [0]*len(l)
@@ -19,6 +19,10 @@ test_cases = [
     ([1, 1, 1], 1),
 ]
 
+def milliseconds(): return int(round(time.time() * 1000))
+
 for input, expected_output in test_cases:
+    start_time = milliseconds()
     result = solution(input)
-    print("Passed!" if result == expected_output else "Failed! (expected: " + str(expected_output) + ", but got: " + str(result) + ")")
+    end_time = milliseconds()
+    print("Passed! (" + str(end_time - start_time) + " ms)" if result == expected_output else "Failed! (expected: " + str(expected_output) + ", but got: " + str(result) + ")")

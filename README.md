@@ -28,8 +28,8 @@ Theres are the problems I got during the challenge, and its solutions:
 * [Bunny Worker Locations](Level%202/Bunny%20Worker%20Locations/problem.md)
 
 **Level 3:**
-* TBD
-* TBD
+* [Find the Access Codes](Level%203/Find%20the%20Access%20Codes/problem.md)
+* [Prepare the Bunnies Escape](Level%203/Prepare%20the%20Bunnies%20Escape/problem.md)
 * TBD
 
 ...

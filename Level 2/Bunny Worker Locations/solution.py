@@ -1,3 +1,4 @@
+import time
 
 def solution(x, y):
     worker_id = 0
@@ -21,6 +22,10 @@ test_cases = [
     ((5, 2), '20'),
 ]
 
+def milliseconds(): return int(round(time.time() * 1000))
+
 for input, expected_output in test_cases:
-    result = solution(*input)
-    print("Passed!" if result == expected_output else "Failed! (expected: " + str(expected_output) + ", but got: " + str(result) + ")")
+    start_time = milliseconds()
+    result = solution(input)
+    end_time = milliseconds()
+    print("Passed! (" + str(end_time - start_time) + " ms)" if result == expected_output else "Failed! (expected: " + str(expected_output) + ", but got: " + str(result) + ")")
